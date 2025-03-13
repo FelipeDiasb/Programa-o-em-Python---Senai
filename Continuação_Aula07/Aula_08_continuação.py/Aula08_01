@@ -1,0 +1,65 @@
+
+# # # indenação = espaçamento
+
+# # # n = input('digiteum valor:')
+# # # n1 = input('Digite outro valor:')
+# # # if n>n1: 
+# # #     print('é maior:')
+# # # else:
+# # #     print('É menor')
+
+# # # Dicionário 
+
+# # pessoa = {'carlos':{   
+# #  'nome':'carlos',
+# #  'idade':30,
+# #  'graduação':'ADS',
+# #  'senha':1234,
+# #  'login':'@carlos',
+# #  'Brasileiro':True
+# # },
+# # 'Fernanda':{   
+# #  'nome':'Fernanda',
+# #  'idade':38,
+# #  'graduação':'ADS',
+# #  'senha':00000,
+# #  'login':'@Fernanda',
+# #  'Brasileiro':True
+# # }
+# # }
+
+
+
+# # if pessoa['Fernanda']['idade']>=18   and  pessoa['Fernanda']['idade']<35:
+# #    print('Jovem')
+# # elif pessoa['Fernanda']['idade']>=35  and pessoa['Fernanda']['idade'] <=64:
+# #    print('Adulto')
+# # elif  pessoa['Fernanda']['idade']>=15 and pessoa['Fernanda']['idade']<=17:
+# #    print('Adolescente')  
+# # elif  pessoa['Fernanda']['idade']<=14: 
+# #    print('Criança')    
+# # else: 
+# #    print('Idosa')
+
+# # import random
+
+
+
+# # aleatorio =  random.randint(1,2)
+# # chute = int(input('Faça suas apostas, escolha um número: '))
+
+
+# # if chute == aleatorio:
+# #     print('Acertou em cheio, ganhou R$ 110.000.000')
+# #     print('numero da sorte:', aleatorio)
+# # else:
+# #     print('Errou feio! O número é', aleatorio) 
+
+
+# numero = 2
+
+
+# if numero % 2==0:
+#     print('Divisivel')
+# else:
+#     print('Não é divisivel:')
