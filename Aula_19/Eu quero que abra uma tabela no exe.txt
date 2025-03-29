@@ -1,0 +1,2 @@
+Eu quero que abra uma tabela no execel e insira  os nomes em três colunas  "data", "chamado","motivo","vale":
+em seguida   insira os dados aleatórios nos campos exemplo: na coluna data colocar datas, na coluna chamado tipo de chamado 742546 números aleatórios e em motivo falta sobra e avaria aleatórios e na coluna Vale tipos NE para sobra e Avaria e CX.única para Falta   
